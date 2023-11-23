@@ -164,7 +164,7 @@
  * https://tools.suckless.org/dmenu/patches/navhistory/
  */
 // WARNING:
-#define NAVHISTORY_PATCH 0
+#define NAVHISTORY_PATCH 1
 
 /* This patch adds back in the workaround for a BadLength error in the Xft library when color
  * glyphs are used. This is for systems that do not have an updated version of the Xft library
